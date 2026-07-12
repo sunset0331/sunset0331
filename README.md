@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=Hi,%20I'm%20Utkarsh%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=I%20build%20AI%20agents%20%26%20distributed%20systems&descSize=16&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=Hi%20I%27m%20Utkarsh&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=I%20build%20AI%20agents%20and%20distributed%20systems&descSize=16&descAlignY=65" width="100%"/>
 
 <br/>
 
@@ -8,8 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshgaur331@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sunset0331)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sunset0331)
-
-<img src="https://komarev.com/ghpvc/?username=sunset0331&style=for-the-badge&color=6C5CE7" alt="Profile views" />
 
 </div>
 
@@ -100,7 +98,7 @@ I'm a Computer Science student at IIIT Nagpur, building at the intersection of *
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=PayFlow&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=OmniSight&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=omnisight&theme=radical&hide_border=true" width="48%" />
 
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=CommercePulse-Lakehouse&theme=radical&hide_border=true" width="48%" />
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=mcp-enterprise-data-fabric&theme=radical&hide_border=true" width="48%" />
