@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Utkarsh+%F0%9F%91%8B;I+build+AI+agents+%26+distributed+systems;Codeforces+Expert+%7C+1500%2B+problems+solved" alt="Typing SVG" />
+<h1>Hi, I'm Utkarsh 👋</h1>
+<p><i>I build AI agents & distributed systems</i></p>
+<p><b>Codeforces Expert | 1500+ problems solved</b></p>
 
 <br/>
 
