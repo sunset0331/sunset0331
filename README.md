@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Utkarsh 👋</h1>
-<p><i>I build AI agents & distributed systems</i></p>
-<p><b>Codeforces Expert | 1500+ problems solved</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=Hi,%20I'm%20Utkarsh%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=I%20build%20AI%20agents%20%26%20distributed%20systems&descSize=16&descAlignY=65" width="100%"/>
 
 <br/>
 
@@ -101,10 +99,11 @@ I'm a Computer Science student at IIIT Nagpur, building at the intersection of *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunset0331&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=sunset0331&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=PayFlow&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=OmniSight&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunset0331&layout=compact&theme=radical&hide_border=true" width="50%" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=CommercePulse-Lakehouse&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sunset0331&repo=mcp-enterprise-data-fabric&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
