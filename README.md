@@ -35,7 +35,7 @@ I'm a Computer Science student at IIIT Nagpur, building at the intersection of *
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td><b><a href="https://github.com/sunset0331/sentinel-vision">Sentinel Vision</a></b></td>
+<td><b><a href="https://github.com/sunset0331/PPE-Safety-Compliance-Detection-System">Sentinel Vision</a></b></td>
 <td>Real-time PPE compliance monitor — 3-model hybrid pipeline (YOLOv8+SAM3+YOLOv11), 97% accuracy. 🥇 1st place, E-Summit Hackathon.</td>
 <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></td>
 </tr>
@@ -45,7 +45,7 @@ I'm a Computer Science student at IIIT Nagpur, building at the intersection of *
 <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/CLIP-000000?style=flat-square"/></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/sunset0331/nexus-swarm">Nexus Swarm</a></b></td>
+<td><b><a href="https://github.com/sunset0331/Nexus-Swarm-Multi-Agent-Support">Nexus Swarm</a></b></td>
 <td>Multi-agent support desk — LangGraph Supervisor pattern, HITL checkpoints, sandboxed SQL execution.</td>
 <td><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></td>
 </tr>
